@@ -13,10 +13,9 @@
 - 📫 연락처: wkdrjs0628@naver.com | [LinkedIn](https://www.linkedin.com/in/내아이디)
 
 ## 🛠️ Tech Stack
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 📊 GitHub Stats
 ![Keon's GitHub stats](https://github-readme-stats.vercel.app/api?username=keonjang&show_icons=true&theme=radical)
