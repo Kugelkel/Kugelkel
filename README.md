@@ -6,11 +6,11 @@
 &nbsp;고객 만족도 향상에 기여했습니다.
 
 ## 💻 Career
-&nbsp;**DKBMC**
+&nbsp;&nbsp;**DKBMC**
 <br>
-&nbsp;클라우드 기반 솔루션 SI 기업
+&nbsp;&nbsp;클라우드 기반 솔루션 SI 기업
 
-2022.12 ~ now (2년 6개월)   |   BI 컨설턴트
+&nbsp;&nbsp;2022.12 ~ now (2년 6개월)   |   BI 컨설턴트
 <br>
 <br>
 **시각화 대시보드 및 마트 개발**
