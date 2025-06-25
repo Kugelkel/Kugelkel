@@ -44,8 +44,8 @@
 ## 📊 Skill Stats
 
 - **Tableau** : ██████████ 90%
-- **SQL**&nbsp;&nbsp;&nbsp;&nbsp;     : ████████░░ 70%
-- **PPT**&nbsp;&nbsp;&nbsp;&nbsp;     : █████████░ 80%
+- **SQL**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     : ████████░░ 70%
+- **PPT**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     : █████████░ 80%
 - **WORD**&nbsp;  : █████████░ 80%
 - **EXCEL**&nbsp;&nbsp;   : ██████░░░░ 50%
 
