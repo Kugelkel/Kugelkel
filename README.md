@@ -1,5 +1,5 @@
 
-# 👋 안녕하세요! 저는 장건(Keon Jang)입니다
+# 👋 안녕하세요! 저는 Keon Jang입니다
 # Tableau로 데이터 시각화 서비스를 제공하는 3년차 BI 컨설턴트입니다
 
 끈기와 책임감을 바탕으로 Tableau 대시보드 개발과 고객 맞춤형 교육에서 전문성을 발휘하며,
@@ -36,6 +36,12 @@
 - 🔭 현재 관심 있는 분야: 데이터분석, API 개발, AI 서비스 개발
 - 📫 연락처: wkdrjs0628@naver.com | [LinkedIn](https://www.linkedin.com/in/내아이디)
 
+## 주요 성과
+- 정기 교육 및 YouTube 교육 영상 제작을 기반으로 Tableau 교육 체계 확립을 통해 개인 역량 편차 감소 및 신입 교육 프로그램 구성
+- 대동 BI 프로젝트에서 BI 마트 및 대시보드 개발을 통해 2차 대동 내부 BI 전문가 양성 프로젝트 계약에 기여
+- 대동 내부 BI 전문가 양성 프로젝트에서 6개 부서 BI 인원 양성 및 대시보드 보고를 통해 대동 BI 프로젝트 계약에 기여
+
+
 ## 🛠️ Tech Stack
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -52,5 +58,4 @@
 
 ## 🗂️ Portfolio
 - [📝 데이터 분석 프로젝트 A](링크)
-- [📊 머신러닝 분류 모델 B](링크)
 - [🧾 GitHub 기반 이력서 PDF](링크 또는 Notion 링크)
