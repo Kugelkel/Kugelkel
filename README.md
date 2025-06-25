@@ -1,11 +1,16 @@
 
 # 👋 안녕하세요! 저는 장건(Keon Jang)입니다
+# Tableau로 데이터 시각화 서비스를 제공하는 3년차 BI 컨설턴트입니다
+
+끈기와 책임감을 바탕으로 Tableau 대시보드 개발과 고객 맞춤형 교육에서 전문성을 발휘하며,
+고객 만족도 향상에 기여했습니다.
 
 ## 💼 About Me
+
 - 🌱 빅데이터 분석기사 준비 중
-- 🧠 주로 사용하는 기술: Python, Pandas, Scikit-learn, SQL
-- 🔭 현재 관심 있는 분야: 머신러닝, 데이터분석, AI 서비스 개발
-- 📫 연락처: [이메일 주소] | [LinkedIn](https://www.linkedin.com/in/내아이디)
+- 🧠 주로 사용하는 기술: Tableau, SQL, 교육
+- 🔭 현재 관심 있는 분야: 데이터분석, API 개발, AI 서비스 개발
+- 📫 연락처: wkdrjs0628@naver.com | [LinkedIn](https://www.linkedin.com/in/내아이디)
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
