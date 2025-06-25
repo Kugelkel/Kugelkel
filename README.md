@@ -41,8 +41,13 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## 📊 GitHub Stats
-![Keon's GitHub stats](https://github-readme-stats.vercel.app/api?username=keonjang&show_icons=true&theme=radical)
+## 📊 Skill Stats
+
+- **Tableau** : ██████████ 90%
+- **SQL**     : ████████░░ 70%
+- **PPT**     : █████████░ 80%
+- **WORD**    : █████████░ 80%
+- **EXCEL**   : ██████░░░░ 50%
 
 
 ## 🗂️ Portfolio
