@@ -24,7 +24,9 @@
 
 <br>
 
-&nbsp;&nbsp;**Tableau 교육**
+&nbsp;&nbsp;
+
+**Tableau 교육**
 
 <br>&nbsp;&nbsp;- 현대카드 MIS 태블로 내재화 프로젝트 (25.05 ~ 현재)
 <br>&nbsp;&nbsp;- 대동 내부 BI 전문가 양성 프로젝트 (24.05 ~ 24.11, 7개월)
@@ -33,7 +35,9 @@
 
 <br>
 
-&nbsp;&nbsp;**💡주요성과**
+&nbsp;&nbsp;
+
+**💡주요성과**
 
 <br>&nbsp;&nbsp;&nbsp;- 정기 교육 및 YouTube 교육 영상 제작을 기반으로 Tableau 교육 체계 확립을 통해 개인 역량 편차 감소 및 신입 교육 프로그램 구성
 <br>&nbsp;&nbsp;&nbsp;- 대동 BI 프로젝트에서 BI 마트 및 대시보드 개발을 통해 2차 대동 내부 BI 전문가 양성 프로젝트 계약에 기여
