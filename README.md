@@ -58,6 +58,7 @@
   
 <br>
 &nbsp;&nbsp;
+
 **💡주요성과**
 <br>&nbsp;&nbsp;&nbsp;- 전문적인 EGR 점검 테스트 및 정비로 BMW 성과달성에 기여
 <br>&nbsp;&nbsp;&nbsp;- 복잡한 점검 방식에서 독자적이고 정밀한 진단체계 확립을 통한 부품 진단율 상승 및 해당 기술 사내 전파
@@ -71,8 +72,6 @@
 &nbsp;&nbsp;
 
 **🎓학력**
-
-<br>
 <br>&nbsp;&nbsp;&nbsp;- 두원공과대학교 자동차과 졸업 2013.03 ~ 2018.02
 <br>&nbsp;&nbsp;&nbsp;- 의정부고등학교 졸업 2010.03 ~ 2013.02
 <br>
@@ -81,8 +80,6 @@
 &nbsp;&nbsp;
 
 **🎖️자격증**
-
-<br>
 <br>&nbsp;&nbsp;&nbsp;- SQLD 2023.12
 <br>&nbsp;&nbsp;&nbsp;- 데이터 분석 준전문가 ADsP 2023.06
 <br>&nbsp;&nbsp;&nbsp;- Tableau Desktop Specialist 2023.03
