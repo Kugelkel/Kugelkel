@@ -9,8 +9,9 @@
 <br>
 
 ## 💻 Career
+<br>&nbsp;&nbsp;
+**DKBMC**
 <br>
-&nbsp;&nbsp;**DKBMC**
 &nbsp;&nbsp;클라우드 기반 솔루션 SI 기업
 &nbsp;&nbsp;2022.12 ~ now (2년 6개월) &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; BI 컨설턴트
 <br>
