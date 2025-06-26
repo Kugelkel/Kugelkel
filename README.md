@@ -1,8 +1,8 @@
 &nbsp;&nbsp;
-# 3년차 BI 컨설턴트 Keon Jang입니다
+# 🔥 안녕하세요 Keon Jang입니다
 
-&nbsp;&nbsp;끈기와 책임감을 바탕으로 Tableau 대시보드 개발과 고객 맞춤형 교육에서 전문성을 발휘하며,
-&nbsp;&nbsp;고객 만족도 향상에 기여했습니다.
+**&nbsp;&nbsp;Tableau 대시보드 개발과 고객 맞춤형 교육을 제공하는 3년차 BI 컨설턴트
+&nbsp;&nbsp;**
 <br>
 <br>
 <br>
