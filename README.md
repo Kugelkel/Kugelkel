@@ -44,8 +44,8 @@
 <br>&nbsp;&nbsp;
 **코오롱 글로벌 BMW**
 <br>
-&nbsp;&nbsp;대전 BMW 서비스센터
-&nbsp;&nbsp;2018.06 ~ 2020.11 (2년 6개월)   |   메카닉
+&nbsp;&nbsp;&nbsp;&nbsp;대전 BMW 서비스센터
+&nbsp;&nbsp;&nbsp;&nbsp;2018.06 ~ 2020.11 (2년 6개월) &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; 메카닉
 <br>
 <br>
 
