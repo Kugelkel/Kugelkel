@@ -48,8 +48,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;2018.06 ~ 2020.11 (2년 6개월) &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; 메카닉
 <br>
 <br>
-
-&nbsp;&nbsp;**차량 점검, 진단, 정비 및 고객 응대**
+&nbsp;&nbsp;
+**차량 점검, 진단, 정비 및 고객 응대**
 <br>&nbsp;&nbsp;- 차량 점검 및 고객 응대
 <br>&nbsp;&nbsp;- A/S 출동 및 사고 차량 처리
 <br>&nbsp;&nbsp;- 차량 고장 진단
@@ -57,8 +57,8 @@
 
   
 <br>
-
-&nbsp;&nbsp;**💡주요성과**
+&nbsp;&nbsp;
+**💡주요성과**
 <br>&nbsp;&nbsp;&nbsp;- 전문적인 EGR 점검 테스트 및 정비로 BMW 성과달성에 기여
 <br>&nbsp;&nbsp;&nbsp;- 복잡한 점검 방식에서 독자적이고 정밀한 진단체계 확립을 통한 부품 진단율 상승 및 해당 기술 사내 전파
   
@@ -68,15 +68,20 @@
 
 ## 📑 RESUME
 <br>
+&nbsp;&nbsp;
 
-&nbsp;&nbsp;**🎓학력**
+**🎓학력**
+
 <br>
 <br>&nbsp;&nbsp;&nbsp;- 두원공과대학교 자동차과 졸업 2013.03 ~ 2018.02
 <br>&nbsp;&nbsp;&nbsp;- 의정부고등학교 졸업 2010.03 ~ 2013.02
 <br>
 <br>
 <br>
-&nbsp;&nbsp;**🎖️자격증**
+&nbsp;&nbsp;
+
+**🎖️자격증**
+
 <br>
 <br>&nbsp;&nbsp;&nbsp;- SQLD 2023.12
 <br>&nbsp;&nbsp;&nbsp;- 데이터 분석 준전문가 ADsP 2023.06
