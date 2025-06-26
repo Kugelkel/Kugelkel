@@ -31,7 +31,7 @@
 
 <br>
 
-**💡주요성과**
+&nbsp;&nbsp;**💡주요성과**
 <br>&nbsp;&nbsp;- 정기 교육 및 YouTube 교육 영상 제작을 기반으로 Tableau 교육 체계 확립을 통해 개인 역량 편차 감소 및 신입 교육 프로그램 구성
 <br>&nbsp;&nbsp;- 대동 BI 프로젝트에서 BI 마트 및 대시보드 개발을 통해 2차 대동 내부 BI 전문가 양성 프로젝트 계약에 기여
 <br>&nbsp;&nbsp;- 대동 내부 BI 전문가 양성 프로젝트에서 6개 부서 BI 인원 양성 및 대시보드 보고를 통해 대동 BI 프로젝트 계약에 기여
@@ -48,12 +48,11 @@
 <br>
 <br>
 
-**차량 점검, 진단, 정비 및 고객 응대**
-
-- 차량 점검 및 고객 응대
-- A/S 출동 및 사고 차량 처리
-- 차량 고장 진단
-- 차량 경, 중정비
+&nbsp;&nbsp;**차량 점검, 진단, 정비 및 고객 응대**
+<br>&nbsp;&nbsp;- 차량 점검 및 고객 응대
+<br>&nbsp;&nbsp;- A/S 출동 및 사고 차량 처리
+<br>&nbsp;&nbsp;- 차량 고장 진단
+<br>&nbsp;&nbsp;- 차량 경, 중정비
 
   
 <br>
@@ -105,12 +104,11 @@
 <br>
 
 ## 📊 Skill Stats
-
-- **Tableau** : ██████████ 90%
-- **SQL**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     : ████████░░ 70%
-- **PPT**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     : █████████░ 80%
-- **WORD**&nbsp;  : █████████░ 80%
-- **EXCEL**&nbsp;&nbsp;   : ██████░░░░ 50%
+<br>&nbsp;&nbsp;- **Tableau** : ██████████ 90%
+<br>&nbsp;&nbsp;- **SQL**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     : ████████░░ 70%
+<br>&nbsp;&nbsp;- **PPT**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     : █████████░ 80%
+<br>&nbsp;&nbsp;- **WORD**&nbsp;  : █████████░ 80%
+<br>&nbsp;&nbsp;- **EXCEL**&nbsp;&nbsp;   : ██████░░░░ 50%
 
 
 ## 🗂️ Portfolio
