@@ -5,7 +5,6 @@
 &nbsp;&nbsp;**
 <br>
 <br>
-<br>
 
 ## 💻 Career
 <br>&nbsp;&nbsp;
@@ -38,7 +37,6 @@
   
 <br>
 <br>
-<br>
 
 ## 🚗🔧 Career
 <br>&nbsp;&nbsp;**코오롱 글로벌 BMW**
@@ -62,7 +60,6 @@
   
 <br>
 <br>
-<br>
 
 ## 📑 RESUME
 <br>
@@ -72,7 +69,6 @@
 <br>&nbsp;&nbsp;&nbsp;- 의정부고등학교 졸업 2010.03 ~ 2013.02
 <br>
 <br>
-<br>
 
 &nbsp;&nbsp;**🎖️자격증**
 <br>&nbsp;&nbsp;&nbsp;- SQLD 2023.12
@@ -80,7 +76,6 @@
 <br>&nbsp;&nbsp;&nbsp;- Tableau Desktop Specialist 2023.03
 <br>&nbsp;&nbsp;&nbsp;- 정보처리기능사 2019.01
 
-<br>
 <br>
 <br>
 
@@ -93,14 +88,12 @@
 
 <br>
 <br>
-<br>
 
 ## 🛠️ Tech Stack
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<br>
 <br>
 <br>
 
