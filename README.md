@@ -93,7 +93,6 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 <br>
 <br>
 
@@ -103,7 +102,8 @@
 <br>&nbsp;&nbsp;- **PPT**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     : █████████░ 80%
 <br>&nbsp;&nbsp;- **WORD**&nbsp;  : █████████░ 80%
 <br>&nbsp;&nbsp;- **EXCEL**&nbsp;&nbsp;   : ██████░░░░ 50%
-
+<br>
+<br>
 
 ## 🗂️ Portfolio
 - [📝 데이터 분석 프로젝트 A](링크)
