@@ -34,7 +34,7 @@
 - 🌱 빅데이터 분석기사 준비 중
 - 🧠 주로 사용하는 기술: Tableau, SQL, 교육
 - 🔭 현재 관심 있는 분야: 데이터분석, API 개발, AI 서비스 개발
-- 📫 연락처: wkdrjs0628@naver.com | [LinkedIn](https://www.linkedin.com/in/내아이디)
+- 📫 연락처: wkdrjs0628@naver.com | [LinkedIn](https://www.linkedin.com/in/건-장-a749a036a)
 
 ## 🥇 주요 성과
 - 정기 교육 및 YouTube 교육 영상 제작을 기반으로 Tableau 교육 체계 확립을 통해 개인 역량 편차 감소 및 신입 교육 프로그램 구성
