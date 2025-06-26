@@ -41,7 +41,8 @@
 <br>
 
 ## 🚗🔧 Career
-&nbsp;&nbsp;**코오롱 글로벌 BMW**
+<br>&nbsp;&nbsp;
+**코오롱 글로벌 BMW**
 <br>
 &nbsp;&nbsp;대전 BMW 서비스센터
 &nbsp;&nbsp;2018.06 ~ 2020.11 (2년 6개월)   |   메카닉
@@ -55,7 +56,6 @@
 <br>&nbsp;&nbsp;- 차량 경, 중정비
 
   
-<br>
 <br>
 
 **💡주요성과**
