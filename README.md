@@ -80,15 +80,15 @@
 <br>&nbsp;&nbsp;&nbsp;- Tableau Desktop Specialist 2023.03
 <br>&nbsp;&nbsp;&nbsp;- 정보처리기능사 2019.01
 
-
-&emsp;&emsp;<details>
- <summary><strong>그 외 자격증</strong></summary>
-<br>&nbsp;&nbsp;&nbsp;- 자동차정비산업기사 자격증 2017.07 
-<br>&nbsp;&nbsp;&nbsp;- 자동차정비기능사 자격증 2013.12
-<br>&nbsp;&nbsp;&nbsp;- 자동차운전면허증(1종보통) 2012.12
-
-</details>
-
+<ul>
+  <li>
+    <details>
+       <summary><strong>그 외 자격증</strong></summary>
+      <br>&nbsp;&nbsp;&nbsp;- 자동차정비산업기사 자격증 2017.07 
+      <br>&nbsp;&nbsp;&nbsp;- 자동차정비기능사 자격증 2013.12
+      <br>&nbsp;&nbsp;&nbsp;- 자동차운전면허증(1종보통) 2012.12
+      </details>
+  </li>
 <br>
 <br>
 ## 💼 About Me
