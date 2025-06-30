@@ -79,8 +79,7 @@
 <br>&nbsp;&nbsp;&nbsp;- 데이터 분석 준전문가 ADsP 2023.06
 <br>&nbsp;&nbsp;&nbsp;- Tableau Desktop Specialist 2023.03
 <br>&nbsp;&nbsp;&nbsp;- 정보처리기능사 2019.01
-<details>
-  <summary>📁 프로젝트 구조 보기</summary>
+
 <br>
 <br>
 
