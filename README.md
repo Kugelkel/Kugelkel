@@ -30,7 +30,7 @@
 
 <br>
 
-> 📎 **[경력기술서 보러가기]([https://github.com/your-username/career](https://github.com/Kugelkel/CAREER)**  
+> 📎 **[경력기술서 보러가기]([https://github.com/your-username/career](https://github.com/Kugelkel/CAREER))**  
 
 <br>
 
