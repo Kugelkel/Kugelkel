@@ -82,7 +82,7 @@
 
 &nbsp;&nbsp;
 <details>
-  <summary><strong>&emsp;&emsp;그 외 자격증</strong></summary>
+  &emsp;&emsp;<summary><strong>그 외 자격증</strong></summary>
 <br>&nbsp;&nbsp;&nbsp;- 자동차정비산업기사 자격증 2017.07 
 <br>&nbsp;&nbsp;&nbsp;- 자동차정비기능사 자격증 2013.12
 <br>&nbsp;&nbsp;&nbsp;- 자동차운전면허증(1종보통) 2012.12
