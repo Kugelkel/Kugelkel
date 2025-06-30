@@ -29,6 +29,7 @@
 <br>&nbsp;&nbsp;- Tableau 정기 내·외부 교육 및 고객사 맞춤형 교육 (23.05 ~ 25.06, 2년 1개월)
 
 <br>
+
 <div style="border:1px solid #ddd; border-radius:10px; padding:16px; background-color:#fafafa;">
 
 <p>아래 클릭 시 경력기술서로 이동합니다.</p>
