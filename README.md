@@ -23,7 +23,7 @@
 <br>
 
 &nbsp;&nbsp;**Tableau 교육**
-<br>&nbsp;&nbsp;- 현대카드 MIS 태블로 내재화 프로젝트 (25.05 ~ 현재)
+<br>&nbsp;&nbsp;- 현대카드 MIS 태블로 대시보드 내재화 프로젝트 (25.05 ~ 현재)
 <br>&nbsp;&nbsp;- 대동 내부 BI 전문가 양성 프로젝트 (24.05 ~ 24.11, 7개월)
 <br>&nbsp;&nbsp;- Tableau 따라하기 YouTube 영상 제작 (23.06 ~ 23.11, 6개월)
 <br>&nbsp;&nbsp;- Tableau 정기 내·외부 교육 및 고객사 맞춤형 교육 (23.05 ~ 25.06, 2년 1개월)
