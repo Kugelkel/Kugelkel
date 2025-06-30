@@ -106,8 +106,6 @@
 ![Tableau](https://img.shields.io/badge/Tableau-1E3A8A?style=for-the-badge&logo=tableau&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Education](https://img.shields.io/badge/Education-E97627?style=for-the-badge&logoColor=white)
 <br>
 <br>
