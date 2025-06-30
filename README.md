@@ -30,17 +30,9 @@
 
 <br>
 
-<div style="border:1px solid #ddd; border-radius:10px; padding:16px; background-color:#fafafa;">
+> 📎 **[경력기술서 보러가기](https://github.com/your-username/career)**  
 
-<p>아래 클릭 시 경력기술서로 이동합니다.</p>
-
-<a href="https://github.com/your-username/your-career-repo" target="_blank" style="text-decoration: none;">
-  📎 <u><b>경력기술서</b></u>
-</a>
-
-</div>
-
-
+<br>
 
 &nbsp;&nbsp;**💡주요성과**
 <br>&nbsp;&nbsp;&nbsp;- 정기 교육 및 YouTube 교육 영상 제작을 기반으로 Tableau 교육 체계 확립을 통해 개인 역량 편차 감소 및 신입 교육 프로그램 구성
