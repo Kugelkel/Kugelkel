@@ -30,7 +30,9 @@
 
 <br>
 
-> 📎 **[경력기술서 보러가기](https://github.com/Kugelkel/CAREER)**  중
+> 📎 **[경력기술서 보러가기](https://github.com/Kugelkel/CAREER)**
+
+<br>&nbsp;&nbsp;- :graduation_cap: 컴퓨터공학 학사학위 준비 중
 <br>&nbsp;&nbsp;- 🌱 빅데이터 분석기사 준비 중
 <br>&nbsp;&nbsp;- 🧠 주로 사용하는 기술: Tableau, SQL, 교육
 <br>&nbsp;&nbsp;- 🔭 현재 관심 있는 분야: 데이터분석, API 개발, AI 서비스 개발
