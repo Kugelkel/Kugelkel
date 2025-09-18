@@ -53,11 +53,11 @@
 ## 📊 Skill Stats
 <br>&nbsp;&nbsp;- **Tableau** : ██████████ 90%
 <br>&nbsp;&nbsp;- **Python**&nbsp;  : ███░░░░░░░ 30%
-<br>&nbsp;&nbsp;- **Linux**&nbsp;&nbsp;&nbsp;&nbsp;    : ██████░░░░ 50%
+<br>&nbsp;&nbsp;- **Linux**&nbsp;&nbsp;&nbsp;&nbsp;    : █████░░░░░ 50%
 <br>&nbsp;&nbsp;- **SQL**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     : ██████░░░░ 60%
 <br>&nbsp;&nbsp;- **PPT**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     : █████████░ 80%
 <br>&nbsp;&nbsp;- **WORD**&nbsp;  : █████████░ 80%
-<br>&nbsp;&nbsp;- **EXCEL**&nbsp;&nbsp;   : ██████░░░░ 50%
+<br>&nbsp;&nbsp;- **EXCEL**&nbsp;&nbsp;   : █████░░░░░ 50%
 <br>
 <br>
 
