@@ -11,7 +11,7 @@
 **DKBMC**
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;클라우드 기반 솔루션 SI 기업
-&nbsp;&nbsp;&nbsp;&nbsp;2022.12 ~ now (3년 2개월) &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; BI 컨설턴트
+&nbsp;&nbsp;&nbsp;&nbsp;2022.12 ~ now (3년 3개월) &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; BI 컨설턴트
 <br>
 <br>
 
